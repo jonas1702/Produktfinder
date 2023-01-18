@@ -1,0 +1,10 @@
+{
+    "haarfarbe": ["schwarz", "braun", "blond", "rot"],
+    "glätte": 1,                
+    "kraft": 1,
+    "färbung": false,
+    "schaden": false,
+    "kopfhaut": 1,
+    "schuppen": false,
+    "haarausfall": false
+}
