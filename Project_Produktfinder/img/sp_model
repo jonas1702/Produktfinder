@@ -1,0 +1,53 @@
+SP-Pflege nach Bedürfnis
+
+page 1: (Gegebenheiten)
+	- Haarfarbe
+		Type: Multiple:
+		- Blond
+		- Braun
+		- Rot
+		-Schwarz
+	
+	- Glatt oder lockig
+		Type : Multi
+		- glatt
+		- eher glatt
+		- eher lockig
+		- lockig
+	
+	- Fein oder Kräftig
+		Type : Multi
+		- fein
+		- eher fein
+		- eher kräftig
+		- kräftig
+	
+page 2: (Zustand)
+	- Haare gefärtb
+		Type : Boolean
+		- Gefärbt
+		- Natur
+	
+	- Haare geschädigt
+		Type : Boolean
+		- Geschädigt
+		- Gesund
+			
+page 3: (Kopfhaut)
+	- Trockene Kopfhaut
+		Type : Multi
+		- Trocken
+		- eher Trocken
+		- eher Fettig
+		- Fettig
+
+	- Schuppen
+		Type: Boolean
+		- Schuppen
+		- Keine Schuppen
+		
+	- Haarausfall
+		Type: Boolean
+		- Haarausfall
+		- Kein Haarausfall
+		
